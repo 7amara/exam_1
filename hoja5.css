@@ -1,0 +1,26 @@
+#encabezado
+{
+    background-color:brown;
+    height: 100px;
+    
+}
+#main
+{
+    background-color: antiquewhite;
+    height: 400px;
+}
+#info
+{
+    background-color: chartreuse;
+    height: 300px;
+}
+#ads
+{
+    background-color: rgb(58, 165, 188);
+    height: 300px;
+}
+#footer
+{
+    background-color: rgb(154, 30, 102);
+    height: 50px;
+}
